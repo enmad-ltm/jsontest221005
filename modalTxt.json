@@ -1,25 +1,25 @@
 {
-    moTtlList: {
-        ttlInput:"당첨자 정보 입력",
-        ttlWarn:"팝업 차단을 해지하세요!"
+    "moTtlList": {
+        "ttlInput":"당첨자 정보 입력",
+        "ttlWarn":"팝업 차단을 해지하세요!"
     },
-    moContList: {
-        contNnT:"인증번호와 휴대폰번호를 입력해주세요.",
-        contNum:"인증번호를 입력해주세요.",
-        contTel:"휴대폰번호를 입력해주세요.",
-        contSaf:"iPhone, iPad로 접속하신 경우 핸드폰 설정(톱니바퀴모양) →
+    "moContList": {
+        "contNnT":"인증번호와 휴대폰번호를 입력해주세요.",
+        "contNum":"인증번호를 입력해주세요.",
+        "contTel":"휴대폰번호를 입력해주세요.",
+        "contSaf":"iPhone, iPad로 접속하신 경우 핸드폰 설정(톱니바퀴모양) →
         Safari → 팝업차단 해지 후 이용하세요.",
-        contYourNot:"대상자가 아닙니다.",
-        contAleady:"이미 참여 하셨습니다.
+        "contYourNot":"대상자가 아닙니다.",
+        "contAleady":"이미 참여 하셨습니다.
         감사합니다.
         변동사항 있으면 고객센터로 연락주세요."
     },
-    admTtl: {
-        nullWarn:"공백입력오류"
+    "admTtl": {
+        "nullWarn":"공백입력오류"
     },
-    admCont: {
-        istInP:"아이디와 비밀번호를 입력해주세요",
-        istId:"아이디를 입력해주세요",
-        istPw:"비밀번호를 입력해주세요"
+    "admCont": {
+        "istInP":"아이디와 비밀번호를 입력해주세요",
+        "istId":"아이디를 입력해주세요",
+        "istPw":"비밀번호를 입력해주세요"
     }
 }
