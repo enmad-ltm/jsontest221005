@@ -1,0 +1,22 @@
+{
+    "mbName": {
+        "eventName": "이벤트",
+        "payName": "이달러",
+        "juminName": "이주민"
+    },
+    "mbJumin": {
+        "juminF": "890623",
+        "juminB": "1234567"
+    },
+    "mbTel": "01051083614",
+    "mbEmail": {
+        "mailId": "enmad.ltm",
+        "domain": "gmail.com"
+    },
+    "mbAddr": {
+        "addrF": "서울시 송파구 법원로 9길26",
+        "addrB": "에이치비즈니스파크 C동 1303호"
+    },
+    "mbEtcA": "뮤직뱅크",
+    "mbEtcB": "계좌번호 01064861087"
+}
