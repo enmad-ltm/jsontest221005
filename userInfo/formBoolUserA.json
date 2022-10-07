@@ -1,0 +1,13 @@
+{
+    "mbName": {
+        "eventName": true,
+        "payName": true,
+        "juminName": true
+    },
+    "mbJumin": true,
+    "mbTel": true,
+    "mbEmail": true,
+    "mbAddr": true,
+    "mbEtcA": true,
+    "mbEtcB": true
+}
