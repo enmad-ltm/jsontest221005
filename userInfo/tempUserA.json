@@ -1,0 +1,22 @@
+{
+    "mbName": {
+        "eventName": "이벤트",
+        "payName": "",
+        "juminName": ""
+    },
+    "mbJumin": {
+        "juminF": "",
+        "juminB": ""
+    },
+    "mbTel": "01051083614",
+    "mbEmail": {
+        "mailId": "",
+        "domain": ""
+    },
+    "mbAddr": {
+        "addrF": "",
+        "addrB": ""
+    },
+    "mbEtcA": "",
+    "mbEtcB": ""
+}
