@@ -1,5 +1,12 @@
 {
-    "id":"admin",
-    "pw":"1234qwer",
-    "lv":"1"
+    "admin": {
+        "id":"admin",
+        "pw":"1234qwer",
+        "lv":"1"
+    },
+    "regUser": {
+        "id":"enmad",
+        "pw":"16443614$",
+        "lv":"0"
+    }
 }
