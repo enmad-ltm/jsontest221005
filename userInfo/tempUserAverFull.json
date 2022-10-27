@@ -14,6 +14,7 @@
         "domain": "gmail.com"
     },
     "mbAddr": {
+        "postN": "12345",
         "addrF": "서울시 송파구 법원로 9길26",
         "addrB": "에이치비즈니스파크 C동 1303호"
     },
